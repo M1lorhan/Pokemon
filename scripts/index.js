@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 require('dotenv').config()
 const { performance } = require("perf_hooks");
-const Pokemon = require('../models/Pokemon')
+const Pokemon = require('../models/pokemon')
 
 
 
